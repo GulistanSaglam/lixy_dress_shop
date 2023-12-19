@@ -1,0 +1,65 @@
+[
+  {
+    "id": "m1",
+    "name": "Black Swan",
+    "price": "1000.00",
+    "description": "It is a lovely black saten dress.",
+    "image": "images/black.png"
+  },
+  {
+    "id": "m2",
+    "name": "Black Purple Dancing Swan",
+    "price": "2000.00",
+    "description": "It is a lovely black-purple dress.",
+    "image": "images/black_purple.png"
+  },
+  {
+    "id": "m3",
+    "name": "Blue Baby",
+    "price": "1500.00",
+    "description": "It feels like swimming in the ocean.",
+    "image": "images/blue.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Gold Crush",
+    "price": "2500.00",
+    "description": "Nobody can't take eyes off this dress.",
+    "image": "images/gold.jpeg"
+  },
+  {
+    "id": "m5",
+    "name": "Elegant Orange",
+    "price": "1750.00",
+    "description": "This dress is above the fashion standarts",
+    "image": "images/orange.png"
+  },
+  {
+    "id": "m6",
+    "name": "Silver Bullet",
+    "price": "2250.00",
+    "description": "Everybody be careful, this dress is coming toward us :)",
+    "image": "images/silver.png"
+  },
+  {
+    "id": "m7",
+    "name": "Silver Shimmering",
+    "price": "2000.00",
+    "description": "Long shimmery dress with back detail",
+    "image": "images/silverr.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Sunset Yellow",
+    "price": "750.00",
+    "description": "Sunset yellow strappy dress ",
+    "image": "images/yellow.png"
+  },
+  {
+    "id": "m9",
+    "name": "Plum Prom",
+    "price": "3000.00",
+    "description": "Embellished Tulle Prom Dress",
+    "image": "images/plum.jpg"
+  }
+]

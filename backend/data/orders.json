@@ -1,0 +1,14 @@
+[{"items":[
+    {"id":"m3",
+    "name":"Blue Baby",
+    "price":"1500.00",
+    "description":"It feels like swimming in the ocean.",
+    "image":"images/blue.jpg",
+    "quantity":1}],
+    "customer":{
+        "name":"Gülistan Sağlam",
+        "email":"gulistansglm@gmail.com",
+        "street":"Yarhasanlar mahallesi",
+        "postal-code":"45020",
+        "city":"Manisa"},
+        "id":"727.7802200302292"}]
